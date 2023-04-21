@@ -1,0 +1,35 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 14, 2023, 1:37:13 AM
+    Author     : Yel
+*/
+
+*{
+    font-family: monospace;
+}
+.IDRS2023Poster{
+    margin: 20px 0 20px 100px;
+    width: 300px;
+    height: auto;
+}
+.home-item1{
+    background-color:#A1CAE2 ;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.box-text-1 {
+    text-align: center;
+    margin: 50px 30px;
+    background-color:#A1CAE2 
+}
+
+.item1-p1{
+    color: white;
+}
+.item1-p3{
+    background-color: peachpuff
+}

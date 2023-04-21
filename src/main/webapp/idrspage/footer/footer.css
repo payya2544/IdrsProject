@@ -1,0 +1,16 @@
+.footer *{
+    position: relative;
+    background-color: #102F7B;
+    color: white;
+    padding: 0 0;
+    font-family: monospace;
+    color: white;
+}
+
+div.footer-box{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 15px;
+    
+
+}
